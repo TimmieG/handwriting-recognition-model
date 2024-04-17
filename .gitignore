@@ -119,6 +119,16 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+#folders
+
+dataset/
+#character_dataset/
+model/othermodels
+#handwritting_dataset/
+
+token.json
+credentials.json
+
 # Environments
 .env
 .venv
