@@ -59,9 +59,9 @@ The latest training session yielded the following results:
 ### Evaluation Metrics
 After training, the model was evaluated on the test dataset. Here are the results:
 
-- **Accuracy**: 94.6%
-- **Precision**: 94.7%
-- **Recall**: 94.6%
+- **Accuracy**: 94.6%,
+- **Precision**: 94.7%,
+- **Recall**: 94.6%,
 - **F1-Score**: 94.5%
 
 These metrics indicate the model's performance, and effectiveness in recognizing handwritten characters with high reliability, highlighting its strengths and areas for improvement.
